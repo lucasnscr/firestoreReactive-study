@@ -1,7 +1,7 @@
 # Firestore Reactive Study
 
 ### Project description
-Project that creates a repository implementing a crud with firestore and google cloud
+Project that creates a repository implementing a crud reactive with firestore and google cloud
 
 
 ## Installation ##
